@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 13755621206 -p xm20040325 -l 250018402 
+        run: python main.py -u 13755621206 -p xm20040325 -l 250018402
